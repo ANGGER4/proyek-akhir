@@ -1,0 +1,8 @@
+data_proyek/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+spark-warehouse/
+derby.log
+metastore_db/
+TUNTUNAN_PROYEK.md

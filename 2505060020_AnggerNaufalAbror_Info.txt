@@ -1,0 +1,3 @@
+NPM 2505060020 | SEED 60020 | VARIAN pertanyaan bisnis = 0
+Transaksi (batch) : 2,010,000 baris di 4 berkas
+Pelanggan          : 50.000 | Produk: 5.000 | Stream: 20 berkas x 5.000 baris
